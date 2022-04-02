@@ -1,2 +1,12 @@
 # CalculationGame-Lite
-This is a stripped-down computing game rebuilt from the ground up, with no bloated features and only the most basic necessary features.
+This is a stripped-down computing game rebuilt from the ground up, with no bloated features and only the most basic necessary features.This project is for Windows.
+
+If you find any questions about this project, you can let me know.
+
+UPL:[https://myh3652-calculationgame.github.io/](https://myh3652-calculationgame.github.io/)
+
+这是从头到尾重新打造的精简版计算游戏,没有繁杂臃肿的功能,只保留了最基本的必要功能.此项目用于Windows.
+
+如果您发现了关于此项目的任何问题,你可以告诉我.
+
+网址:[https://myh3652-calculationgame.github.io/](https://myh3652-calculationgame.github.io/)
